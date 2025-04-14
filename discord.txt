@@ -1,0 +1,30 @@
+discord.com##div[id="profile-customization-tab"] > div[class^="container_"]
+discord.com##[class^="nitroTextAndBadge_"]
+discord.com##button:has([class^="premiumIcon_"])
+discord.com##[class^="emojiSection_"] [class^="flex_"] div[class*="text-sm-normal"]
+discord.com##button[aria-label="Send a gift"]
+discord.com##[class^="channelAppLauncher_"]
+discord.com##[class^="channelAppLauncher_"] > [class^="buttonContainer_"]
+discord.com##.visual-refresh .channelAppLauncher_e6e74f
+discord.com##li div a[href="/shop"]
+discord.com##li div a[href="/store"]
+discord.com##[class^="profileEffects"]
+discord.com##svg[class^="avatarDecoration"]
+discord.com##img[class^="avatarDecoration"]
+discord.com##[class*="bannerSVGWrapper_"] > mask > image
+discord.com##[class*=avatarDecorationHint_] > foreignObject:style(width:80px !important; height:80px !important;)
+discord.com##[class*=avatarDecorationHint_]:style(top:-80px !important; left:0px !important; position:relative !important;)
+discord.com##div[class*=nameAndDecorators] div[role="button"]:has(svg[aria-label^="Server boosting since"])
+discord.com##div[class*=nameAndDecorators] div[role="button"]:has(svg[aria-label^="Server Boosting since"])
+discord.com##div[class^="body_"] > span[class^="clickable_"] [role="button"]
+discord.com##span[class*="clanTagChiplet_"]
+discord.com##span[class*="clanTag_"]
+discord.com##div[class*=overlayBackground_]:has(button[class*=getNitroButton_])
+discord.com##div[class*=characterCount_] div[class*=iconOnly_]:has(svg[class*=premium_])
+discord.com##div[class*="listItem"]:has(div[data-list-item-id="guildsnav___guild-discover-button"])
+discord.com##ul[data-list-id="guildsnav"] > div[class^="footer"]
+discord.com##div[class^="effectsWrapper"]
+discord.com##img.emoji:style(opacity:1 !important;)
+discord.com##div[class*="shakeReaction"]:style(animation:none !important;)
+discord.com##div[role="list"][aria-label="Members"][class*="content__"] h3[class*="membersGroup_"][class*="container_"]:has-text(Activity)
+discord.com##div[role="list"][aria-label="Members"][class*="content__"] div:has([class*="openOnHover_"]):not([class^="member_"])
