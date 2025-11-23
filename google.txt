@@ -1,0 +1,4 @@
+||accounts.google.com/gsi/iframe
+##iframe[src^="http://accounts.google.com/gsi/iframe"]
+##iframe[src^="https://accounts.google.com/gsi/iframe"]
+##iframe[src^="//accounts.google.com/gsi/iframe"]
